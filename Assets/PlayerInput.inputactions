@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "PlayerInput",
+    "maps": [
+        {
+            "name": "Movement",
+            "id": "62f542e7-f296-4bbe-ba99-d06bce3adece",
+            "actions": [
+                {
+                    "name": "WASD",
+                    "type": "Button",
+                    "id": "fdc0c933-5c5c-4795-a36c-791b4d9afde3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "39bd4cab-9170-4bf2-ae21-c1dfbd35ba14",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "WASD",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
